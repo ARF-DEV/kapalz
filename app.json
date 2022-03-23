@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "kapalz",
+    "slug": "kapalz",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "kapalz"
+}
